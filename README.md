@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **🚀 QUICK START: It's extremely simple!**
+> 1. **Clone Repo** → 2. **Install Requirements** → 3. **Run `python app.py`**
+> No complex setup needed. Just run and generate!
+
 # 🎬 SaaS Subtitle Generator
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
